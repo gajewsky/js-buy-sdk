@@ -99,6 +99,7 @@
     "wdio-mocha-framework": "0.3.1",
     "webdriverio": "4.0.9",
     "whatwg-fetch": "0.10.1",
+    "yuidoc-lucid-theme": "github:shopify/yuidoc-lucid-theme#0b226d5",
     "yuidocjs": "0.10.0"
   }
 }
