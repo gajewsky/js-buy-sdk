@@ -28,7 +28,7 @@ This tool is intended for use by developers who are experienced with JavaScript.
 ## Including the Buy SDK
 
 ```html
-<script src="http://sdks.shopifycdn.com/js-buy-sdk/latest/shopify-buy.polyfilled.globals.min.js"></script>
+<script src="http://sdks.shopifycdn.com/js-buy-sdk/v0/latest/shopify-buy.umd.polyfilled.min.js"></script>
 ```
 
 ## Creating a Shop Client
