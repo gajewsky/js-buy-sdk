@@ -27,3 +27,4 @@ docs/src
 _site
 .sass-cache
 .jekyll-metadata
+docs/_data
